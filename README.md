@@ -32,6 +32,9 @@ mkfs.vfat disk.dd
 mmls disk.dd
 ## fls:
 fls -f fat -o 0 disk.dd
+
+
+
 ![image](https://github.com/user-attachments/assets/e2942f8c-3ccf-486a-930f-f5695a7c32de)
 ![image](https://github.com/user-attachments/assets/ab510c13-e3b3-45a0-9ee8-dcf444be0578)
 ![image](https://github.com/user-attachments/assets/5db03141-b5e9-4ab3-92b9-84e16c621479)
