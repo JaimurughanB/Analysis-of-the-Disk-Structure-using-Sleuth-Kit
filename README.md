@@ -13,9 +13,10 @@ Use Sleuth Kit tools like mmls, fsstat, and fls to examine the partition layout,
 Interpret the output of the tools to understand the disk structure, including partitions, sectors, and files.
 
 ## PROGRAM:
-Sleuth Kit Disk Analysis Commands✅ Option 1: Create a Sample Disk Image (for Testing)
+Sleuth Kit Disk Analysis Commands ✅ Option 1: Create a Sample Disk Image (for Testing)
 
 Let’s create a 10MB blank disk image and simulate file system activity:
+
 cd ~/Downloads
 
 # Step 1: Create an empty disk image
